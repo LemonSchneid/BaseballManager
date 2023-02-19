@@ -1,0 +1,12 @@
+
+could even do an ASCII GUI just to remember which players were on what bases.
+
+There could be two modes. 1 mode is heavily automated so you wouldnt have to worry too much about stats. The game could
+sort your players into positions based on stats.
+
+The other mode is a hardcore mode. You would have to set positions for each player depending on the stats you like
+for each position.
+
+
+
+ready for next batter? yes continues. you can also change player positions or check the score.
