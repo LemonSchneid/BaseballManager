@@ -5,7 +5,7 @@ import names
 import random
 import ball_diamond
 
-
+# i want to see a difference in git
 FIELDER_RANGE = 3
 OUTFIELD_SPEED_PENALTY = 1
 
